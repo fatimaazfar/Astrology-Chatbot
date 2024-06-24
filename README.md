@@ -1,6 +1,6 @@
 # AstroAI
 
-[![AstroAI Demo](https://img.youtube.com/vi/15UODIiqQoYQmN5iTmTrwF1-dzwgU-zAg/0.jpg)](https://drive.google.com/file/d/15UODIiqQoYQmN5iTmTrwF1-dzwgU-zAg/view?usp=sharing)
+![AstroAI Demo](astroai.gif)
 
 AstroAI is an interactive desktop application designed to provide personalized horoscopes and astrological insights based on user-provided birth details. This application utilizes the Tkinter library for the graphical user interface and OpenAI's GPT-3.5-turbo model for generating astrological content.
 
